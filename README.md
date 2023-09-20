@@ -1,11 +1,11 @@
-# YouTube-Trends-Data-Engineering
+# What is the project?
 This simple project dives into YouTube trending data analysis, done by myself on a journey to master AWS. It involves data ingestion, transformation, and dashboard creation, leveraging AWS services like S3, IAM, Glue, Lambda, and Athena.
 
-## Project  - What I aimed to do?
+## What I aimed to do?
 
 This project seemed to be a compelling opportunity to immerse myself in the Amazon Web Services (AWS) ecosystem and delve into the intricate facets of the ecosystem and gain some valuable hands-on experience with AWS services such as S3, IAM, Glue, Lambda, and Athena.
 
-## Project  - What I learned and Achieved?
+## What I learned and Achieved?
 
 Throughout the course of working on this project, I accomplished the following:
 
